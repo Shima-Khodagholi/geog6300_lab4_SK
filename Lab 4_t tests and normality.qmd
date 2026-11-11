@@ -99,7 +99,7 @@ pulse_data %>%
   * Do you reject the null hypothesis? Why or why not? 
   * Based on the test result and the group means, what can we conclude about differences in the number of children between these two groups?
   
-> The Wilcoxon rank sum test gave W = 1,171,425,061 and p value far below 0.05. I therefore reject the null hypothesis: the number of children differs significantly between displaced and non-displaced households. The group means show the direction. Displaced households had an average of 0.74 children, compared with 0.59 for non-displaced households, so households displaced by natural disasters tended to have more children. The difference is modest in size, about 0.15 children per household, and both groups have a median of 0. The very small p-value partly reflects the huge sample (over 470,000 households), which makes even small differences statistically significant. So the difference is real, but it is not large.
+> The Wilcoxon est gave W = 1,171,425,061 and p value far below 0.05. I therefore reject the null hypothesis: the number of children differs significantly between displaced and non-displaced households. The group means show the direction. Displaced households had an average of 0.74 children, compared with 0.59 for non-displaced households, so households displaced by natural disasters tended to have more children. The difference is modest in size, about 0.15 children per household, and both groups have a median of 0. The very small p-value partly reflects the huge sample (over 470,000 households), which makes even small differences statistically significant. So the difference is real, but it is not large.
 
 ### Identifying differences in time displaced by natural disasters across income groups
 
